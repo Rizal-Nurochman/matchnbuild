@@ -3,13 +3,13 @@ package service
 import (
 	"context"
 
-	"github.com/Caknoooo/go-gin-clean-starter/database/entities"
-	"github.com/Caknoooo/go-gin-clean-starter/modules/auth/dto"
-	authRepo "github.com/Caknoooo/go-gin-clean-starter/modules/auth/repository"
-	userDto "github.com/Caknoooo/go-gin-clean-starter/modules/user/dto"
-	"github.com/Caknoooo/go-gin-clean-starter/modules/user/repository"
-	"github.com/Caknoooo/go-gin-clean-starter/pkg/helpers"
-	"github.com/Caknoooo/go-gin-clean-starter/pkg/utils"
+	"github.com/Rizal-Nurochman/matchnbuild/database/entities"
+	"github.com/Rizal-Nurochman/matchnbuild/modules/auth/dto"
+	authRepo "github.com/Rizal-Nurochman/matchnbuild/modules/auth/repository"
+	userDto "github.com/Rizal-Nurochman/matchnbuild/modules/user/dto"
+	"github.com/Rizal-Nurochman/matchnbuild/modules/user/repository"
+	"github.com/Rizal-Nurochman/matchnbuild/pkg/helpers"
+	"github.com/Rizal-Nurochman/matchnbuild/pkg/utils"
 	"github.com/google/uuid"
 	"gorm.io/gorm"
 )

@@ -3,9 +3,9 @@ package tests
 import (
 	"testing"
 
-	"github.com/Caknoooo/go-gin-clean-starter/modules/auth/dto"
-	"github.com/Caknoooo/go-gin-clean-starter/modules/auth/validation"
-	userDto "github.com/Caknoooo/go-gin-clean-starter/modules/user/dto"
+	"github.com/Rizal-Nurochman/matchnbuild/modules/auth/dto"
+	"github.com/Rizal-Nurochman/matchnbuild/modules/auth/validation"
+	userDto "github.com/Rizal-Nurochman/matchnbuild/modules/user/dto"
 	"github.com/stretchr/testify/assert"
 )
 

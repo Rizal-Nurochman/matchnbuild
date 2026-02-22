@@ -3,8 +3,8 @@ package service
 import (
 	"context"
 
-	"github.com/Caknoooo/go-gin-clean-starter/modules/user/dto"
-	"github.com/Caknoooo/go-gin-clean-starter/modules/user/repository"
+	"github.com/Rizal-Nurochman/matchnbuild/modules/user/dto"
+	"github.com/Rizal-Nurochman/matchnbuild/modules/user/repository"
 	"gorm.io/gorm"
 )
 

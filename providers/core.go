@@ -1,14 +1,14 @@
 package providers
 
 import (
-	"github.com/Caknoooo/go-gin-clean-starter/config"
-	authController "github.com/Caknoooo/go-gin-clean-starter/modules/auth/controller"
-	authRepo "github.com/Caknoooo/go-gin-clean-starter/modules/auth/repository"
-	authService "github.com/Caknoooo/go-gin-clean-starter/modules/auth/service"
-	userController "github.com/Caknoooo/go-gin-clean-starter/modules/user/controller"
-	"github.com/Caknoooo/go-gin-clean-starter/modules/user/repository"
-	userService "github.com/Caknoooo/go-gin-clean-starter/modules/user/service"
-	"github.com/Caknoooo/go-gin-clean-starter/pkg/constants"
+	"github.com/Rizal-Nurochman/matchnbuild/config"
+	authController "github.com/Rizal-Nurochman/matchnbuild/modules/auth/controller"
+	authRepo "github.com/Rizal-Nurochman/matchnbuild/modules/auth/repository"
+	authService "github.com/Rizal-Nurochman/matchnbuild/modules/auth/service"
+	userController "github.com/Rizal-Nurochman/matchnbuild/modules/user/controller"
+	"github.com/Rizal-Nurochman/matchnbuild/modules/user/repository"
+	userService "github.com/Rizal-Nurochman/matchnbuild/modules/user/service"
+	"github.com/Rizal-Nurochman/matchnbuild/pkg/constants"
 	"github.com/samber/do"
 	"gorm.io/gorm"
 )

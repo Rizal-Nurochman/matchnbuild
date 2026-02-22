@@ -1,7 +1,7 @@
 package database
 
 import (
-	"github.com/Caknoooo/go-gin-clean-starter/database/entities"
+	"github.com/Rizal-Nurochman/matchnbuild/database/entities"
 	"gorm.io/gorm"
 )
 

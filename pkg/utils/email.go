@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"github.com/Caknoooo/go-gin-clean-starter/config"
+	"github.com/Rizal-Nurochman/matchnbuild/config"
 
 	"gopkg.in/gomail.v2"
 )

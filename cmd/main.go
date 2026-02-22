@@ -4,11 +4,11 @@ import (
 	"log"
 	"os"
 
-	"github.com/Caknoooo/go-gin-clean-starter/middlewares"
-	"github.com/Caknoooo/go-gin-clean-starter/modules/auth"
-	"github.com/Caknoooo/go-gin-clean-starter/modules/user"
-	"github.com/Caknoooo/go-gin-clean-starter/providers"
-	"github.com/Caknoooo/go-gin-clean-starter/script"
+	"github.com/Rizal-Nurochman/matchnbuild/middlewares"
+	"github.com/Rizal-Nurochman/matchnbuild/modules/auth"
+	"github.com/Rizal-Nurochman/matchnbuild/modules/user"
+	"github.com/Rizal-Nurochman/matchnbuild/providers"
+	"github.com/Rizal-Nurochman/matchnbuild/script"
 	"github.com/samber/do"
 
 	"github.com/common-nighthawk/go-figure"

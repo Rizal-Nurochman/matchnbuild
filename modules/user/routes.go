@@ -1,10 +1,10 @@
 package user
 
 import (
-	"github.com/Caknoooo/go-gin-clean-starter/middlewares"
-	"github.com/Caknoooo/go-gin-clean-starter/modules/auth/service"
-	"github.com/Caknoooo/go-gin-clean-starter/modules/user/controller"
-	"github.com/Caknoooo/go-gin-clean-starter/pkg/constants"
+	"github.com/Rizal-Nurochman/matchnbuild/middlewares"
+	"github.com/Rizal-Nurochman/matchnbuild/modules/auth/service"
+	"github.com/Rizal-Nurochman/matchnbuild/modules/user/controller"
+	"github.com/Rizal-Nurochman/matchnbuild/pkg/constants"
 	"github.com/gin-gonic/gin"
 	"github.com/samber/do"
 )

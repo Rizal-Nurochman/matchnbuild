@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/Caknoooo/go-gin-clean-starter/modules/auth/service"
-	"github.com/Caknoooo/go-gin-clean-starter/modules/user/dto"
-	"github.com/Caknoooo/go-gin-clean-starter/pkg/utils"
+	"github.com/Rizal-Nurochman/matchnbuild/modules/auth/service"
+	"github.com/Rizal-Nurochman/matchnbuild/modules/user/dto"
+	"github.com/Rizal-Nurochman/matchnbuild/pkg/utils"
 	"github.com/gin-gonic/gin"
 )
 

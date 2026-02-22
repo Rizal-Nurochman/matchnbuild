@@ -1,14 +1,15 @@
 package script
 
 import (
-	_ "github.com/Caknoooo/go-gin-clean-starter/database/migrations"
 	"log"
 	"os"
 	"strconv"
 	"strings"
 
-	"github.com/Caknoooo/go-gin-clean-starter/database"
-	"github.com/Caknoooo/go-gin-clean-starter/pkg/constants"
+	_ "github.com/Rizal-Nurochman/matchnbuild/database/migrations"
+
+	"github.com/Rizal-Nurochman/matchnbuild/database"
+	"github.com/Rizal-Nurochman/matchnbuild/pkg/constants"
 	"github.com/samber/do"
 	"gorm.io/gorm"
 )

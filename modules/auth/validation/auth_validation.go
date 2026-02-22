@@ -1,8 +1,8 @@
 package validation
 
 import (
-	"github.com/Caknoooo/go-gin-clean-starter/modules/auth/dto"
-	userDto "github.com/Caknoooo/go-gin-clean-starter/modules/user/dto"
+	"github.com/Rizal-Nurochman/matchnbuild/modules/auth/dto"
+	userDto "github.com/Rizal-Nurochman/matchnbuild/modules/user/dto"
 	"github.com/go-playground/validator/v10"
 )
 
